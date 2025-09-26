@@ -1,0 +1,2 @@
+postman login --with-api-key
+postman collection run
